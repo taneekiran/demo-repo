@@ -1,3 +1,1 @@
-# demo-repo
-# demo-repo2
-# demo-repo3
+# I have removed the text
